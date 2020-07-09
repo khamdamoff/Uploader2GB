@@ -1,4 +1,4 @@
-## URL Uploader Bot
+i## URL Uploader Bot
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -8,6 +8,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
 👉 Upload as file from any HTTP link
+https://heroku.com/deploy?template=https://github.com/khamdamoff/Uploader2GB
 
 ### Installation
 
