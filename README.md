@@ -11,6 +11,8 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ### Installation
 
+https://heroku.com/deploy?template=https://github.com/Khamdamoff/Uploader2GB
+
 #### The Easy Way
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
